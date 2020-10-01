@@ -14,7 +14,7 @@ class Directory extends React.Component {
           imageUrl: "images/hats.png", // local file in public/images/
           id: 1,
           linkUrl: "shop/hats",
-          size: 'large',
+          size: "large",
         },
         {
           title: "jackets",
@@ -22,7 +22,7 @@ class Directory extends React.Component {
           imageUrl: "images/jackets.png", // local file in public/images/
           id: 2,
           linkUrl: "shop/jackets",
-          size: 'large',
+          size: "large",
         },
         {
           title: "sneakers",
@@ -30,7 +30,7 @@ class Directory extends React.Component {
           imageUrl: "images/sneakers.png", // local file in public/images/
           id: 3,
           linkUrl: "shop/sneakers",
-          size: 'large',
+          size: "large",
         },
         {
           title: "womens",
