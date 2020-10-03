@@ -22,6 +22,7 @@ const CollectionItem = ({ item, addItem }) => {
   );
 };
 
+// Adds the item to the cart
 const mapDispatchToProps = (dispatch) => ({
   addItem: (item) => dispatch(addItem(item)),
 });
